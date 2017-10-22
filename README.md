@@ -3,7 +3,7 @@
 [イギリス電子政府](https://gds.blog.gov.uk/)が作成したデザイン原則のポスターに日本語の注釈をつけました。
 注釈は、[オリジナル](https://www.gov.uk/guidance/government-design-principles)を意訳/簡略化したものです。
 
-本ポスターと下記文書のオリジナルはUKHomeOfficeが作成し、CC BY-NC-SA licenseのもと利用可能です。
+本ポスターと下記文書のオリジナルは英国Government Digital Serviceが作成し、Open Government Licence v3.0のもと利用可能です。
 
 
 ## Design Principles
